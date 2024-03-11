@@ -1,5 +1,5 @@
 {
-   "token": "MTIxNjM4NTI3MDcyMzY0MTQ3Ng.G-mlFX.qJ8i8KgnIBylGbdVccvPZuKr7NayXgHaE5Wn8I",
+   "token": "",
    "prefix": ".",
    "ownerIDS": [
       "1110890609239130122",
@@ -12,7 +12,8 @@
    "status": {
       "text": "Hosted By: ShadowStriker_169",
       "text2": ".help",
-      "type": "PLAYING"
+      "type": "PLAYING",
+      "url": "https://twitch.tv/discord"
    },
    "clientsettings": {
       "nodes": [
