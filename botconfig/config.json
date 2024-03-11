@@ -1,31 +1,32 @@
 {
-   "token": "",
-   "prefix": "",
+   "token": "MTIxNjM4NTI3MDcyMzY0MTQ3Ng.G-mlFX.qJ8i8KgnIBylGbdVccvPZuKr7NayXgHaE5Wn8I",
+   "prefix": ".",
    "ownerIDS": [
-      "OWNER_ID"
+      "1110890609239130122",
+      "801674279225393163",
+      "1207510451005427783"
    ],
    "fnbr": "",
    "fortnitetracker": "",
    "memer_api": "",
    "status": {
-      "text": "Hosted By: Roverdev",
-      "text2": "By: discord.gg/milrato",
-      "type": "PLAYING",
-      "url": "https://twitch.tv/milratodiscordbot"
+      "text": "Hosted By: ShadowStriker_169",
+      "text2": ".help",
+      "type": "PLAYING"
    },
    "clientsettings": {
       "nodes": [
          {
-            "host": "",
-            "port": 1234,
-            "password": "",
+            "host": "node.meww.me",
+            "port": 2333,
+            "password": "madebytragic",
             "secure": false
          }
       ]
    },
    "spotify": {
-      "clientSecret": "",
-      "clientID": ""
+      "clientSecret": "053469ffeb3844079fab734ebf30902",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
    },
    "settings": {
       "COMMENT": "time_delay 0 === insta leave",
